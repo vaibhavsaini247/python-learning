@@ -1,10 +1,19 @@
 # 🐍 Python Learning Journey
 
-Welcome to my Python learning repository.
+This repository documents my journey of learning Python from scratch
 
-## 📚 Topics Covered
+## 📚 Contents
 - ✅ Hello World
-
+- ✅ Variables
+- ✅ Data Types
+- ✅ Input and output
+- ✅ Operators
+- ✅ Conditional statements
+- ✅ Loops
+- ✅ Functions
+- ✅ OOP
+- ✅ Projects
+  
 ## 🎯 Goal
 To master Python from basics to advanced by building projects and practicing consistently.
 
