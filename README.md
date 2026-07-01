@@ -15,10 +15,10 @@ From Zero to Advanced Python.
 
 ## 📂 Folder Structure
 
-01_HelloWorld
-02_Variables
-03_DataTypes
-04_Operators
+- 01_HelloWorld
+- 02_Variables
+- 03_DataTypes
+- 04_Operators
   
 ## 🎯 Goal
 To master Python from basics to advanced by building projects and practicing consistently.
