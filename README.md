@@ -6,7 +6,7 @@ This repository documents my journey of learning Python from scratch
 - ✅ Hello World
 - ✅ Variables
 - ✅ Data Types
-- ✅ Input and output
+- ✅ Input
 - ✅ Operators
 - ✅ Conditional statements
 - ✅ Loops
@@ -19,3 +19,4 @@ To master Python from basics to advanced by building projects and practicing con
 
 ## 📅 Progress
 - Day 1: Hello World
+- Day 2: Variables and Input
