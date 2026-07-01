@@ -1,18 +1,24 @@
 # 🐍 Python Learning Journey
 
-This repository documents my journey of learning Python from scratch
+From Zero to Advanced Python.
 
-## 📚 Contents
+## 🚀 Current Progress
+
 - ✅ Hello World
 - ✅ Variables
 - ✅ Data Types
 - ✅ Input
-- ✅ Operators
-- ✅ Conditional statements
-- ✅ Loops
-- ✅ Functions
-- ✅ OOP
-- ✅ Projects
+- ⏳ Operators
+- ⏳ Loops
+
+---
+
+## 📂 Folder Structure
+
+01_HelloWorld
+02_Variables
+03_DataTypes
+04_Operators
   
 ## 🎯 Goal
 To master Python from basics to advanced by building projects and practicing consistently.
