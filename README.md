@@ -16,8 +16,11 @@ From Zero to Advanced Python.
 ## 📂 Folder Structure
 
 - 01_HelloWorld
+  
 - 02_Variables
+  
 - 03_DataTypes
+  
 - 04_Operators
   
 ## 🎯 Goal
