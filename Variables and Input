@@ -1,0 +1,12 @@
+#VARIABLES
+a= 10        #Here 'a' is a variable and 10 is the value given to this variable
+b= 200
+print(a+b)
+
+
+#input
+#input is used to accept values from users. 
+sum = float(input("enter a number: "))    
+sum2 = float(input("enter another number: "))
+addition = print("sum of two numbers is:", sum + sum2)
+
